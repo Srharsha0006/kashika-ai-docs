@@ -21,7 +21,7 @@ docker compose up -d
 docker exec -it ollama ollama run gemma2:2b
 
 ### Step 4: Access the Web Application. Open your browser and navigate to:
-http://<your-ip-address>/install
+http://ip-address/install
 
 Note: Refer the InstallationDocument.pdf for more details about Admin Initial Setup, Knowledge Base - Uploading files, Creating Chatbots
 
